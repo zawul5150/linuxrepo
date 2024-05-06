@@ -1,0 +1,2 @@
+alias cx='cd Desktop\xmrig-6.21.3'
+alias x='sudo ./xmrig.sh --config=config.json
